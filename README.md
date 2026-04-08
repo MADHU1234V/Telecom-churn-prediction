@@ -19,8 +19,8 @@ This project predicts customer churn using machine learning techniques. This pro
 ##  Dataset
 Telecom customer dataset with features like tenure, charges, and services.
 
-## 📊 Results
+## Results
 Gradient Boosting Achieved good accuracy in predicting customer churn and identified key factors influencing churn.
 
-## 👨‍💻 Author
+## Author
 Madhuvamshi
