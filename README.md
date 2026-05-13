@@ -108,7 +108,7 @@ Steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/telecom-churn-prediction.git
+git clone https://github.com/MADHU1234V/telecom-churn-prediction.git
 cd telecom-churn-prediction
 
 # 2. Ensure telecom_churn_data1.csv is in the project folder
