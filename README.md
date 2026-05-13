@@ -26,7 +26,7 @@ Customer churn is one of the most critical business challenges in the telecom in
 telecom-churn-prediction/
 │
 ├── Telecom_Churn_Prediction.ipynb          # Main notebook
-├── telecom_churn_data1.csv                 # Input dataset
+├-- telecom_churn_data1.csv                 # Input dataset
 ├── customers_with_churn_predictions.csv    # Output: predictions
 ├── customers_with_churn_risk_scores.csv    # Output: risk scores & segments
 └── README.md
